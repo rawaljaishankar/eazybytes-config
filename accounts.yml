@@ -1,0 +1,15 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank account related local APIs"
+  contactDetails:
+    email: "test@test"
+    name: "test"
+  onCallSupport:
+    - (080) 1234567
+    - (080) 1234568
+
+
+
+

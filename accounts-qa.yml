@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank account related QA APIs"
+  contactDetails:
+    email: "test-QA@test"
+    name: "test-QA"
+  onCallSupport:
+    - (080) 1234563
+    - (080) 1234569

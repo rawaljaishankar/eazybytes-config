@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcom to Eazybank cards related PROD APIs"
+  contactDetails:
+    name: "EazyBank"
+    email: "prod@example.com"
+  onCallSupport:
+    - "Call us at 1800 1234 1232"
+    - "Call us at 1800 1234 1231"
