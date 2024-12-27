@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank account related QA APIs"
   contactDetails:
-    email: "test-QA@test"
+    email: ""{cipher}8caaf6180c81d303f075377a726d508e8a0511bf598be68bf385aa1968d1b517""
     name: "test-QA"
   onCallSupport:
     - (080) 1234563
