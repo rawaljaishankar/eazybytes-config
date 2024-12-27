@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to Eazybank cards related PROD APIs"
+  message: "Welcome to Jai's Eazybank cards related PROD APIs"
   contactDetails:
     name: "EazyBank"
     email: "{cipher}4484fd77c068ee1e38e10372ef15495bd97e164a5f547d0380fe027c57688bc0d3063044638077a5dcb2c4f5ad0a7e1a"
