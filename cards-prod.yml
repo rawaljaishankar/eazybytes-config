@@ -5,7 +5,7 @@ cards:
   message: "Welcom to Eazybank cards related PROD APIs"
   contactDetails:
     name: "EazyBank"
-    email: "prod@example.com"
+    email: "{cipher}4484fd77c068ee1e38e10372ef15495bd97e164a5f547d0380fe027c57688bc0d3063044638077a5dcb2c4f5ad0a7e1a"
   onCallSupport:
     - "Call us at 1800 1234 1232"
     - "Call us at 1800 1234 1231"
