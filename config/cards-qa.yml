@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcom to Eazybank cards related QA APIs"
+  contactDetails:
+    name: "EazyBank"
+    email: "1Y2oK@example.com"
+  onCallSupport:
+    - "Call us at 1800 1234 1234"
+    - "Call us at 1800 1234 1235"
