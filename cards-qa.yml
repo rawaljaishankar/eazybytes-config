@@ -5,7 +5,7 @@ cards:
   message: "Welcom to Eazybank cards related QA APIs"
   contactDetails:
     name: "EazyBank"
-    email: "1Y2oK@example.com"
+    email: "{cipher}8caaf6180c81d303f075377a726d508e8a0511bf598be68bf385aa1968d1b517"
   onCallSupport:
     - "Call us at 1800 1234 1234"
     - "Call us at 1800 1234 1235"
