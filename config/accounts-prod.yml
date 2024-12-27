@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank account related PROD APIs"
   contactDetails:
-    email: "prod@eazybank"
+    email: "{cipher}28b3c6755cd787fb64bea18e2d452bcd972edacf6e2bb3c333e599cd4c4ac0c583dcc1875202ea8c58caa784c8390424"
     name: "Jai Shankar"
   onCallSupport:
     - (080) 1234562
